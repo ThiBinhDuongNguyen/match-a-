@@ -5,7 +5,8 @@
 
 ## What is this?
 
-**Match(a)** is *not* your average app. It's part 🍃*matcha marketplace*, part 💬*friend finder*, and part 🎉*IRL experience machine*. Basically, if Amazon, Tinder, and a cozy matcha café had a baby — this would be it.
+**Match(a)** is a revolutionary mobile application that merges three lucrative domains: e-commerce, social networking, and community engagement. This platform is designed for matcha lovers who not only want to buy high-quality matcha but also connect with like-minded individuals over a cup of matcha. Whether you're a traveler looking to meet locals or someone wanting to expand your social circle through shared interests, Match(a) makes it seamless.
+
 
 ## 🚀 Why?
 
